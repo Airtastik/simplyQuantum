@@ -1,0 +1,28 @@
+{
+  "name": "main.js",
+  "version": "1.0.0",
+  "description": "Main screen for SQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Airtastik/simplyQuantum.git"
+  },
+  "keywords": [
+    "Quantum",
+    "quantum",
+    "computing",
+    "Qiskit"
+  ],
+  "author": "Tristan Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Airtastik/simplyQuantum/issues"
+  },
+  "homepage": "https://github.com/Airtastik/simplyQuantum#readme",
+  "devDependencies": {
+    "electron": "^34.0.2"
+  }
+}
